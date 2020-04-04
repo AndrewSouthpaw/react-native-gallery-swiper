@@ -359,6 +359,8 @@ $ cd react-native-gallery-swiper/example/
 
 Free and made possible along with costly maintenance and updates by [Lue Hang](https://www.facebook.com/lue.hang) (the author).
 
+Originally based off [react-native-image-gallery](https://github.com/archriss/react-native-image-gallery).
+
 <br/>
 <br/>
 <br/>
